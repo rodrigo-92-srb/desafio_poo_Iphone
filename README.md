@@ -5,7 +5,7 @@ Desafio da DIO realizado com o objetivo de criar um diagrama de classes e implem
 
 - Interfaces são utilizadas para conseguirmos aplicar o conceito de herança múltipla. Herança múltipla é quando uma classe possui métodos vinculados a mais de uma classe.
 - Como no Java isso não é possível usando apenas classes, podemos usar interfaces para criar métodos abstratos que serão implementados por uma classe, podendo essa classe implementar mais de uma interface.
-- No nosso exercício temos as interfaces `Telefone`, `Reprodutor Musical`, `Navegador de Internet` contendo os métodos que serão implementados pela classe `Iphone`.
+- No nosso exercício temos as interfaces `Aparelho Telefônico`, `Reprodutor Musical`, `Navegador da Internet` contendo os métodos que serão implementados pela classe `Iphone`.
 
 - Nosso diagrama ficou da seguinte forma:
 
