@@ -11,5 +11,4 @@ Desafio da DIO realizado com o objetivo de criar um diagrama de classes e implem
 
 <p align="center">
 <img src="/src/images/Iphone_Class_Diagram.jpg"><br>
-<a href="">Hierarchy of Collection Framework in Java </a>
 </p>
